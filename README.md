@@ -7,13 +7,14 @@
 
 ## Short links:
 
-- [News](./docs/news.md)
+- [News](./docs/news.md) 📰
 - [Documentation](https://smsgateway24.com/en/docs/apidocumentation)
-- [Issues](https://github.com/smsgateway24/SmsGateWay24/issues)
+- [Issues](https://github.com/smsgateway24/SmsGateWay24/issues) 🔥
+- [How to Section - Wiki](/docs/features.md) 🧐
 
 ### Site Url:
 - [SmsGateWay24.com](https://smsgateway24.com/en)
-- [SmsGateWay24 Apk](https://smsgateway24.com/smsgateway24prolatest.apk)
+- [SmsGateWay24 Apk](https://smsgateway24.com/smsgateway24prolatest.apk) 📲
 
 ### Contacts: 
 - [Email: support@smsgateway24.com](mailto:support@smsgateway24.com)

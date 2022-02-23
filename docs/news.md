@@ -1,4 +1,4 @@
-# 23.02.2022
+*23.02.2022*
 
 ### Guys, in this newsletter I will describe what has been done recently:
 
