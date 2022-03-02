@@ -1,6 +1,6 @@
 *23.02.2022*
 
-### Guys, in this newsletter I will describe what has been done recently:
+### What has been done recently:
 
 1. We have released version 12.1.19. This version fixes a bug on authentication with complex passwords. Removed Autologin function - it did not work correctly, make it work correctly, so it was cut out.  Also changed the logic of the application authorization. on some android phones, perhaps a way to authorize the phone gets a new ID. In that case you need to connect the subscription to the new device. If you use the API to create, then change the Device_id to the new one. We can delete the old device - just email us.
 2. Now you can share your subscription with anyone. You can specify a Device ID when connecting a subscription to any other user's device. This can be useful if you are a dealer and work with your customers, providing them a sub-service.
