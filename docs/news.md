@@ -1,3 +1,15 @@
+*25.06.2022*
+
+### SmsGateWay24 Pro v12.1.21 released
+
+- The app now works in Android 12
+ 
+
+if your app works well - you can stay on 12.1.19. See APK on github
+- [Download APK on Github](https://github.com/smsgateway24/SmsGateWay24-Pro-Apk)
+
+
+
 *3.03.2022*
 
 ### SmsGateWay24 Pro v12.1.20 released
