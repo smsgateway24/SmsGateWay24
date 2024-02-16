@@ -10,8 +10,9 @@ https://obsidian.md/
 
 ## Short links:
 
-- [News](News.md) 📰
+
 - [Documentation](https://smsgateway24.com/en/docs/apidocumentation)
+- News
 - [Issues](https://github.com/smsgateway24/SmsGateWay24/issues) 🔥
 - [How to Section - Wiki](Features%20SmsGateWay24.md) 🧐
 
