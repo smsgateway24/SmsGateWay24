@@ -2,15 +2,18 @@
 # SmsGateWay24 
 ...knock knock knockin' on client's door
 
+# Open this repo with Obsidian!
+https://obsidian.md/
 
-### Open [Issue](https://github.com/smsgateway24/SmsGateWay24/issues) If you need some features. Describe you feature request in English please. 
+
+### Open [Issue](https://github.com/smsgateway24/SmsGateWay24/issues) If you need some features. Describe you feature request.
 
 ## Short links:
 
-- [News](./docs/news.md) 📰
+- [News](News.md) 📰
 - [Documentation](https://smsgateway24.com/en/docs/apidocumentation)
 - [Issues](https://github.com/smsgateway24/SmsGateWay24/issues) 🔥
-- [How to Section - Wiki](/docs/features.md) 🧐
+- [How to Section - Wiki](Features%20SmsGateWay24.md) 🧐
 
 ### Site Url:
 - [SmsGateWay24.com](https://smsgateway24.com/en)
@@ -24,7 +27,6 @@
 
 ### Social 
 - [Facebook](https://www.facebook.com/smsgateway24)
-- [Vk](https://vk.com/club91096366)
 - [Twitter](https://twitter.com/GateSms)
 - [Youtube](https://www.youtube.com/channel/UCJ7D4rtphvDEsBIpzC22aHg)
 - [Telegram News](https://t.me/smsgateway24)
